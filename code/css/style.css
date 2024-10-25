@@ -1,0 +1,207 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  color: #403C39;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: "Montserrat", sans-serif;
+}
+
+a {
+  color: #F38160;
+  text-decoration: underline;
+}
+
+.button {
+  display: inline-block;
+  background-color: #F38160;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 16px;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.hero {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+}
+.hero_header {
+  width: 55%;
+  padding-top: 50px;
+}
+.hero_header h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 62px;
+  line-height: 70px;
+  font-weight: 700;
+  color: #403C39;
+  margin-bottom: 30px;
+}
+.hero_header h1 span {
+  color: #F38160;
+}
+.hero_description {
+  color: #949494;
+  font-weight: 300;
+  font-size: 20px;
+  max-width: 70%;
+  margin-bottom: 30px;
+}
+.hero_search {
+  width: 65%;
+  display: flex;
+  align-items: stretch;
+  margin-bottom: 30px;
+}
+.hero_search input {
+  width: 90%;
+  background-color: rgba(208, 208, 210, 0.25);
+  padding: 10px 20px;
+  border: 0;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  font-size: 20px;
+  display: inline-block;
+}
+.hero_search input::placeholder {
+  color: #949494;
+  font-weight: 300;
+}
+.hero_search button {
+  background-color: #F38160;
+  display: inline-block;
+  width: 40px;
+  border: 0;
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+.hero_search button img {
+  width: 20px;
+}
+.hero_info {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 60%;
+  gap: 20px;
+}
+.hero_info li {
+  width: 45%;
+  color: #949494;
+  font-weight: 300;
+  margin: 0;
+  position: relative;
+  padding-left: 30px;
+}
+.hero_info li::before {
+  content: "";
+  width: 20px;
+  height: 20px;
+  background-image: url("../img/check.svg");
+  background-size: 20px;
+  background-repeat: no-repeat;
+  background-position: center center;
+  position: absolute;
+  left: 0;
+  top: 3px;
+}
+.hero_img {
+  width: 45%;
+}
+.hero_img img {
+  max-width: 400px;
+  position: relative;
+  left: -139px;
+}
+
+.products {
+  display: flex;
+  justify-content: space-between;
+  gap: 24px;
+}
+.products img {
+  width: 90px;
+}
+.products h3 {
+  color: #403c39;
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 10px;
+}
+.products p {
+  color: #949494;
+  font-weight: 300;
+}
+
+nav.navprincipal ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 50px;
+}
+nav.navprincipal ul a {
+  color: #949494;
+  font-weight: 300;
+  text-decoration: none;
+}
+nav.navprincipal ul a.active, nav.navprincipal ul a:hover {
+  color: #F38160;
+  position: relative;
+}
+nav.navprincipal ul a.active::before, nav.navprincipal ul a:hover::before {
+  content: "";
+  position: absolute;
+  height: 2px;
+  background-color: #F38160;
+  width: 80%;
+  bottom: -10px;
+  left: 10%;
+}
+
+header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header .login ul {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 35px;
+}
+header .login ul .bag img {
+  width: 25px;
+}
+
+.container {
+  max-width: 1350px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+/*# sourceMappingURL=style.css.map */

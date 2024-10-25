@@ -1,0 +1,23 @@
+.products {
+    display: flex;
+    justify-content: space-between;
+    gap:24px;
+
+    img {
+        width:90px;
+    }
+
+    h3 {
+        color: #403c39;
+        font-size: 20px;
+        font-weight: 500;
+        margin-bottom: 10px;
+    }
+
+    p {
+        color:$grey;
+        font-weight: 300;
+
+    }
+
+}
