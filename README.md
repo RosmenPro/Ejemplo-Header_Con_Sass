@@ -2,7 +2,7 @@
 
 Este proyecto incluye un header para una página web de una tienda de comestibles, diseñado con HTML y CSS. El diseño es limpio y funcional, adecuado para una experiencia de usuario fluida.
 
-![Header](groseries.png)
+![Header](groceries.png)
 
 ## Estructura del Proyecto
 
