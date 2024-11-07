@@ -38,3 +38,46 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 ## Contribuir
 
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, no dudes en abrir un issue o crear un pull request.
+
+---
+
+# Grocery Store Header
+
+This project includes a header for a grocery store website, designed with HTML and CSS. The design is clean and functional, suitable for a smooth user experience.
+
+![Header](groceries.png)
+
+## Project Structure
+
+The project contains the following files:
+
+- `index.html`: The main HTML file defining the page structure.
+- `css/style.css`: The CSS file containing styles applied to the HTML.
+- `scss/`: Folder that includes all SCSS files used to generate the CSS.
+- `img/`: Folder containing images used in the header.
+
+## Installation
+
+1. Clone this repository or download the files.
+2. Ensure you have access to the image files in the `img/` folder.
+
+## Usage
+
+1. Open `index.html` in your browser to view the header in action.
+2. If you want to modify the styles:
+   - You can use the SCSS files in the `scss/` folder and compile them to CSS using a SASS compiler.
+   - You can also directly edit the `css/style.css` file for quick changes.
+
+## Features
+
+- **Responsive Design**: The header adapts to different screen sizes.
+- **Intuitive Navigation**: Includes links to the main sections of the store.
+- **Quick Access**: "Login" and "Sign Up" buttons to provide easy access for users.
+
+## License
+
+This project is under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
+## Contribute
+
+Contributions are welcome. If you have any suggestions or improvements, feel free to open an issue or create a pull request.
