@@ -39,6 +39,10 @@ Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE)
 
 Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, no dudes en abrir un issue o crear un pull request.
 
+## Autor
+
+- **Rosmén Valencia** - [PerfilGitHub](https://github.com/RosmenPro)
+
 ---
 
 # Grocery Store Header
@@ -81,3 +85,8 @@ This project is under the MIT License. See the [LICENSE](LICENSE) file for more 
 ## Contribute
 
 Contributions are welcome. If you have any suggestions or improvements, feel free to open an issue or create a pull request.
+
+## Author
+
+- **Rosmén Valencia** - [GitHubProfile](https://github.com/RosmenPro)
+
