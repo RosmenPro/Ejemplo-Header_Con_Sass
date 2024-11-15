@@ -59,7 +59,14 @@ Las contribuciones son bienvenidas. Si tienes alguna sugerencia o mejora, no dud
 
 This project includes a header for a grocery store website, designed with HTML and CSS. The design is clean and functional, suitable for a smooth user experience.
 
-![Header](groceries.png)
+<div style="text-align: center;">
+    <img src="groceries.png" alt="Header" style="display: block; margin: 0 auto;">
+</div>
+<p align="center">
+    <a href="code/">
+        <img src="https://img.shields.io/badge/ver%20codigo-%23F16718?style=for-the-badge" alt="badge">
+    </a>
+</p>
 
 ## Project Structure
 
