@@ -2,12 +2,15 @@
 
 Este proyecto incluye un header para una página web de una tienda de comestibles, diseñado con HTML y CSS. El diseño es limpio y funcional, adecuado para una experiencia de usuario fluida.
 
-![Header](groceries.png)
-
- <a href="code/">
-      <img src="https://img.shields.io/badge/ver%20codigo-%23F16718?style=for-the-badge" alt="badge">
-   </a>
+<div style="text-align: center;">
+    <img src="groceries.png" alt="Header" style="display: block; margin: 0 auto;">
+</div>
+<p align="center">
+    <a href="code/">
+        <img src="https://img.shields.io/badge/ver%20codigo-%23F16718?style=for-the-badge" alt="badge">
+    </a>
 </p>
+
 
   
 
