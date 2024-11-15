@@ -4,7 +4,7 @@ Este proyecto incluye un header para una página web de una tienda de comestible
 
 ![Header](groceries.png)
 
- <a href="src/">
+ <a href="code/">
       <img src="https://img.shields.io/badge/ver%20codigo-%23F16718?style=for-the-badge" alt="badge">
    </a>
 </p>
